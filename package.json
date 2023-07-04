@@ -8,5 +8,6 @@
   },
   "keywords": ["javascript", "ecmascript"],
   "author": "David perez numa",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
